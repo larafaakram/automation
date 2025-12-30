@@ -1,5 +1,5 @@
 # Python virtual environment
-.menv/
+.mvenv/
 __pycache__/
 *.pyc
 .env
