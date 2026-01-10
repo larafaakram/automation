@@ -1,0 +1,2 @@
+This text from file 2: Python is here
+This text is from file 2, Linux

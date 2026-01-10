@@ -1,0 +1,2 @@
+This text from file 3: Python is always here
+Text file, Kubernetes
