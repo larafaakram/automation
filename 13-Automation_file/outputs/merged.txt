@@ -1,6 +1,0 @@
-this text from file1: Python is the best language programming
-this text from file1: Django, FastApi, Flask
-This text from file 2: Python is here
-This text is from file 2, Linux
-This text from file 3: Python is always here
-Text file, Kubernetes

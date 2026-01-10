@@ -1,3 +1,0 @@
-this text from file1: Python is the best language programming
-This text from file 2: Python is here
-This text from file 3: Python is always here
